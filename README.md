@@ -2,9 +2,11 @@
 
 ###
 
-✨ Creating bugs since 2021
-📚 I'm currently learning Tailwind CSS
-🎯 Goals: Lead impact initiatives and Share my knowledge to empower others.
+<p>
+    ✨ Creating bugs since 2021 <br>
+    📚 I'm currently learning Tailwind CSS<br>
+    🎯 Goals: Lead impact initiatives and Share my knowledge to empower others.
+</p>
 
 ###
 
