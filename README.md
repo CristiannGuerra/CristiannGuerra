@@ -71,9 +71,3 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="36"
         alt="notion logo" />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/CristiannGuerra/CristiannGuerra/output/snake.svg" alt="Snake animation" />
-
-###
