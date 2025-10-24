@@ -10,10 +10,6 @@
 
 ###
 
-<br clear="both">
-
-<img align="right" height="245" src="//i.imgflip.com/a4v8rw.gif" />
-
 ###
 
 <br clear="both">
